@@ -91,7 +91,7 @@ export default function RootLayout({ children }) {
                   </Link>
 
                   <Link
-                    href="#"
+                    href="https://github.com/lahiriyatin/CareerIO"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
