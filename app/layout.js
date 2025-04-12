@@ -57,7 +57,7 @@ export default function RootLayout({ children }) {
 
                 <div className="flex -mx-2">
                   <Link
-                    href="https://x.com/zeltrax15"
+                    href="#"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -74,7 +74,7 @@ export default function RootLayout({ children }) {
                   </Link>
 
                   <Link
-                    href="https://www.facebook.com/swapnil.bhattacharya.39/"
+                    href="#"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -91,7 +91,7 @@ export default function RootLayout({ children }) {
                   </Link>
 
                   <Link
-                    href="https://github.com/SwapnilBhattacharya05"
+                    href="#"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
