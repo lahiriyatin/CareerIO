@@ -32,8 +32,8 @@ _Requirements:_
 
 **Clone the repository**
 ```bash
-git clone https://github.com/SwapnilBhattacharya05/ai-career-coach.git
-cd ai-career-coach
+git clone https://github.com/lahiriyatin/CareerIo.git
+cd CareerIO
 ```
 
 **Install the dependencies**
