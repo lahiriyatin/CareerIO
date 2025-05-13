@@ -48,7 +48,7 @@ const HeroSection = () => {
           </Link>
 
           <Link
-            href="https://github.com/lahiriyatin"
+            href="https://github.com/lahiriyatin/CareerIo"
             target="_blank"
             rel="noopener noreferrer"
           >
